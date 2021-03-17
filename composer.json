@@ -1,0 +1,11 @@
+{
+    "name": "reshmanikki/bestonlinecourse",
+    "type": "class",
+    "description": "Join the best DevOps Training Course.",
+    "keywords": ["devops", "training course", "cloud course", "devops certification"],
+    "homepage": "https://github.com/reshmanikki/bestonlinecourse",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
